@@ -31,10 +31,10 @@
 	],
 	"require": {
 		"php": ">=7.1.0",
-		"roundcube/plugin-installer": "*",
+		"roundcube/plugin-installer": "~0.3.1",
 		"texxasrulez/libcalendaring": "*",
 		"texxasrulez/libkolab": "*",
-		"sabre/dav": "4.1.2",
+		"sabre/dav": ">~4.1.2",
 		"league/oauth2-client": "*",
 		"league/oauth2-google": "*"
 	},
