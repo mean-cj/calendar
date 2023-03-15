@@ -31,7 +31,7 @@
 	],
 	"require": {
 		"php": ">=7.1.0",
-		"roundcube/plugin-installer": "~0.3.1",
+        	"roundcube/plugin-installer": "~0.3.1",
 		"texxasrulez/libcalendaring": "*",
 		"texxasrulez/libkolab": "*",
 		"sabre/dav": "*",
@@ -40,7 +40,7 @@
 	},
 	"extra": {
 		"roundcube": {
-			"min-version": "1.4.0",
+			"min-version": "1.6.0",
 			"sql-dir": "SQL"
 		}
 	},
